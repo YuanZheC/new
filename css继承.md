@@ -68,3 +68,5 @@ Can I use 这个网站是检测兼容性的 ,查看什么浏览器可以用什�
 ### [动效网站](http://fff.cmiscm.com/#!/main)
 
 ### [js 动态插入css 样式](https://www.w3cmm.com/dom/insert-css.html)
+
+### [跨域](http://harttle.com/2015/10/10/cross-origin.html)
