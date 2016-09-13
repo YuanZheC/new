@@ -25,6 +25,8 @@ Can I use 这个网站是检测兼容性的 ,查看什么浏览器可以用什�
 
 ### [simplebits](simplebts.com)
 
+### [iframe 可能遇到的问题](http://www.tuicool.com/articles/nMFzMn3)
+
 这是一个 案例 展示的网站
 
 ### [css 参考手册](http://www.w3school.com.cn/cssref/index.asp#animation)
