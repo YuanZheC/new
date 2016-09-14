@@ -84,3 +84,5 @@ Can I use 这个网站是检测兼容性的 ,查看什么浏览器可以用什�
 ### [安卓3D](http://www.oschina.net/question/2393516_2152281)
 
 ### [学习的网站](http://www.w3ctech.com/)
+
+### [echarts](http://study.163.com/course/introduction.htm?courseId=1016007#/courseDetail)
